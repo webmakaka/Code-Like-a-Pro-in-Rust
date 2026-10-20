@@ -219,7 +219,3 @@ https://github.com/brndnmtthws/code-like-a-pro-in-rust-book
 #### 11.4
 
 * [parallelization-with-rayon](c11/parallelization-with-rayon/)
-
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/brndnmtthws/code-like-a-pro-in-rust-book.svg)](https://starchart.cc/brndnmtthws/code-like-a-pro-in-rust-book)
