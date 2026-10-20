@@ -7,7 +7,7 @@ https://github.com/brndnmtthws/code-like-a-pro-in-rust-book
 
 <br/>
 
-<img src="https://github.com/brndnmtthws/code-like-a-pro-in-rust-book/assets/3129093/234328e1-0957-42f1-9238-b37798a821d8" width="500" />
+<img src="/img/book-cover.jpg" width="500" align="right" />
 
 <br/>
 
