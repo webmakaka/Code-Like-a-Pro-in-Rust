@@ -1,11 +1,15 @@
-# [Книга][Бренден Мэтьюз] Rust. Профессиональное программирование (Code Like a Pro in Rust book code) [RUS, 2025]
+# [Книга][Бренден Мэтьюз] Rust. Профессиональное программирование [RUS, 2025]
+
+[Book][Brenden Matthews] Code Like a Pro in Rust book code [ENG, 2024]
 
 **Оригинальный код:**  
 https://github.com/brndnmtthws/code-like-a-pro-in-rust-book
 
-This repository contains the source code for [_Code Like a Pro in Rust_](https://www.manning.com/books/code-like-a-pro-in-rust).
+<br/>
 
-[<img src="https://github.com/brndnmtthws/code-like-a-pro-in-rust-book/assets/3129093/234328e1-0957-42f1-9238-b37798a821d8" width="500" />](https://www.manning.com/books/code-like-a-pro-in-rust)
+<img src="https://github.com/brndnmtthws/code-like-a-pro-in-rust-book/assets/3129093/234328e1-0957-42f1-9238-b37798a821d8" width="500" />
+
+<br/>
 
 ## Table of contents
 
