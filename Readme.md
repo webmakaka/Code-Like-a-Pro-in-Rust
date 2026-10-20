@@ -27,7 +27,7 @@ https://github.com/brndnmtthws/code-like-a-pro-in-rust-book
 #### ЧАСТЬ I. РАБОТА С RUST НА ПРОФЕССИОНАЛЬНОМ УРОВНЕ
 
 <ul>
-  <li>02. Управление проектами с помощью Cargo</li>
+  <li>✅ 02. Управление проектами с помощью Cargo</li>
   <li>03. Инструменты Rust</li>
 </ul>
 
