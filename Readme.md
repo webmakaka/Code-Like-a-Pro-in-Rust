@@ -60,38 +60,7 @@ https://github.com/brndnmtthws/code-like-a-pro-in-rust-book
 </ol>
 
 
-<br/>
 
-
-### Chapter 2
-
-#### 2.2
-
-* [simple-project](c02/simple-project/)
-
-#### 2.3
-
-* [patch-num-cpus](c02/patch-num-cpus/)
-
-#### 2.6
-
-* [zlib-wrapper](c02/zlib-wrapper/)
-
-#### 2.8
-
-* [rustdoc-example](c02/rustdoc-example/)
-
-#### 2.9
-
-* [modules](c02/modules/)
-
-#### 2.10
-
-* [workspaces-example](c02/workspaces-example/)
-  
-#### 2.11
-
-* [build-script-example](c02/build-script-example/)
 
 ### Chapter 4
 
