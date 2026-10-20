@@ -1,4 +1,4 @@
-# [Бренден Мэтьюз] Rust. Профессиональное программирование (Code Like a Pro in Rust book code) [RUS, 2025]
+# [Книга][Бренден Мэтьюз] Rust. Профессиональное программирование (Code Like a Pro in Rust book code) [RUS, 2025]
 
 **Оригинальный код:**  
 https://github.com/brndnmtthws/code-like-a-pro-in-rust-book
