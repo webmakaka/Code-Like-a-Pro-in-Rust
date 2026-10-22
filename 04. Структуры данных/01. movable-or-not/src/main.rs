@@ -1,5 +1,5 @@
 fn print_string(s: String) {
-    println!("print_String: {}", s);
+    println!("print_string: {}", s);
 }
 
 fn print_str(s: &str) {
