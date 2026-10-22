@@ -5,6 +5,10 @@
 **Оригинальный код:**  
 https://github.com/brndnmtthws/code-like-a-pro-in-rust-book
 
+**Rust Playground:**  
+https://play.rust-lang.org/
+
+
 <br/>
 
 <img src="/img/book-cover.jpg" width="500" align="right" />
