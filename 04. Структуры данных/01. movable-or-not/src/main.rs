@@ -1,4 +1,4 @@
-fn print_String(s: String) {
+fn print_string(s: String) {
     println!("print_String: {}", s);
 }
 
@@ -8,7 +8,7 @@ fn print_str(s: &str) {
 
 fn main() {
     // let s: str = "impossible str";
-    print_String(String::from("String"));
+    print_string(String::from("String"));
     print_str(&String::from("String"));
     print_str("str");
     // print_String("str"); error! does not compile
