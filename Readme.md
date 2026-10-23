@@ -8,7 +8,6 @@ https://github.com/brndnmtthws/code-like-a-pro-in-rust-book
 **Rust Playground:**  
 https://play.rust-lang.org/
 
-
 <br/>
 
 <img src="/img/book-cover.jpg" width="500" align="right" />
@@ -37,70 +36,30 @@ https://play.rust-lang.org/
 #### ЧАСТЬ II. ОСНОВНЫЕ ДАННЫЕ
 
 <ol>
-  <li>Глава 4. Структуры данных</li>
-  <li>Глава 5. Работа с памятью</li>
+  <li>✅ 04. Структуры данных</li>
+  <li>05. Работа с памятью</li>
 </ol>
 
 #### ЧАСТЬ III. КОРРЕКТНОСТЬ КОДА
 
 <ul>
-  <li>Глава 6. Модульное тестирование</li>
-  <li>Глава 7. Интеграционное тестирование</li>
+  <li>06. Модульное тестирование</li>
+  <li>07. Интеграционное тестирование</li>
 </ul>
 
 #### ЧАСТЬ IV. АСИНХРОННЫЙ RUST
 
 <ol>
-  <li>Глава 8. Асинхронное программирование в Rust</li>
-  <li>Глава 9. Создание сервиса HTTP REST API</li>
-  <li>Глава 10. Создание CLI-инструмента HTTP REST API</li>
+  <li>08. Асинхронное программирование в Rust</li>
+  <li>09. Создание сервиса HTTP REST API</li>
+  <li>10. Создание CLI-инструмента HTTP REST API</li>
 </ol>
 
 #### ЧАСТЬ V. ОПТИМИЗАЦИЯ
 
 <ol>
-  <li>Глава 11. Оптимизация кода</li>
+  <li>11. Оптимизация кода</li>
 </ol>
-
-### Chapter 4
-
-#### 4.1
-
-- [movable-or-not](c04/movable-or-not/)
-
-#### 4.2
-
-- [slices-and-arrays](c04/slices-and-arrays/)
-
-#### 4.3
-
-- [borrowed-vec](c04/borrowed-vec/)
-
-#### 4.4
-
-- [compound-key](c04/compound-key/)
-- [custom-hash-function](c04/custom-hash-function/)
-
-#### 4.5
-
-- [enums](c04/enums/)
-- [integer-types](c04/integer-types/)
-- [tuple-basics](c04/tuple-basics/)
-- [unchecked-arithmetic](c04/unchecked-arithmetic/)
-- [wrapping-arithmetic](c04/wrapping-arithmetic/)
-
-#### 4.6
-
-- [error-handling](c04/error-handling/)
-
-#### 4.7
-
-- [error-conversion](c04/error-conversion/)
-- [string-wrapper](c04/string-wrapper/)
-
-#### 4.8
-
-- [zlib-example](c04/zlib-example/)
 
 ### Chapter 5
 
